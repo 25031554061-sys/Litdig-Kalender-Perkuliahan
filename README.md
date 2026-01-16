@@ -1,5 +1,5 @@
 # Litdig-Kalender-Perkuliahan
-Sistem kalender perkuliahan 2025–2026 berbasis Google Sheets untuk pengelolaan jadwal akademik.
+Sistem kalender perkuliahan berbasis Google Sheets untuk pengelolaan jadwal akademik.
 
 
 Project ini merupakan spreadsheet kalender perkuliahan interaktif yang dibuat menggunakan Google Sheets. 
